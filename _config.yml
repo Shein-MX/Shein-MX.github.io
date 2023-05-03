@@ -129,7 +129,7 @@ navigation_header:
   url: /blog/
 - title: Categorias
   url: /categories/
-- title: Search
+- title: Buscar
   url: /search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
