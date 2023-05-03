@@ -2,7 +2,7 @@
 title: About Alembic
 feature_text: |
   ## Shein MX
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Todos nuestros productos son creados especialmente con los detalles y el estilo en mente. Disponible en una amplia gama de estilos, colores y telas. 15% Off en tu primer pedido! Guía de Tallas. Gran Calidad y Asequible. Tienda trendy en línea. Envío gratis ahora.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
