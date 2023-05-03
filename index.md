@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: ¿Quienes somos?
 feature_text: |
   ## Shein MX
   Todos nuestros productos son creados especialmente con los detalles y el estilo en mente. Disponible en una amplia gama de estilos, colores y telas. 15% Off en tu primer pedido! Guía de Tallas. Gran Calidad y Asequible. Tienda trendy en línea. Envío gratis ahora.
@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "¿Quienes somos? SHEIN es un minorista electrónico global de moda y estilo de vida, comprometido con hacer que la belleza de la moda sea accesible para todos. Utilizamos tecnología de fabricación en demanda para conectar a los proveedores con nuestra ágil cadena de suministro, reduciendo el desperdicio de inventario y permitiéndonos ofrecer una variedad de productos accesibles a clientes de todo el mundo. Desde nuestras oficinas globales, llegamos a clientes en más de 150 países. Para conocer más sobre SHEIN, visita [Shein MX](https://www.shein.com.mx/?url_from=mxgooglebrandshein_shein04_srsa_20210130&cid=1349200220&setid=53867204813&adid=495674116709&pf=GOOGLE&gclid=EAIaIQobChMI7bmRu_PX_gIVjC2tBh05Lw8yEAAYASAAEgKuQ_D_BwE)"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+SHEIN es un minorista electrónico global de moda y estilo de vida, comprometido con hacer que la belleza de la moda sea accesible para todos. Utilizamos tecnología de fabricación en demanda para conectar a los proveedores con nuestra ágil cadena de suministro, reduciendo el desperdicio de inventario y permitiéndonos ofrecer una variedad de productos accesibles a clientes de todo el mundo. Desde nuestras oficinas globales, llegamos a clientes en más de 150 países. Para conocer más sobre SHEIN, visita [Shein MX](https://jekyllrb.com/)
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
